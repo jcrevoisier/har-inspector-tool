@@ -18,7 +18,7 @@ pip install har-inspector-tool
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/har-inspector-tool.git
+git clone https://github.com/jcrevoisier/har-inspector-tool.git
 cd har-inspector-tool
 pip install -e .
 ```
